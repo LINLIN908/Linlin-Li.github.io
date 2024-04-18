@@ -87,7 +87,7 @@ sections:
       date_end: ""
       date_start: "2023-08-21"
       description: Machine Learning (ML) Algorithms, Scikit-Learn.
-      icon: Coursera
+      icon: coursera
       organization: Coursera
       organization_url: https://www.coursera.org
       title: Applied Machine Learning in Python
@@ -96,7 +96,7 @@ sections:
       date_end: ""
       date_start: "2023-07-02"
       description: "Python Programming, Numpy, Pandas, Data Cleansing."
-      icon: Coursera
+      icon: coursera
       organization: Coursera
       organization_url: https://www.coursera.org
       title: Introduction to Data Science in Python
