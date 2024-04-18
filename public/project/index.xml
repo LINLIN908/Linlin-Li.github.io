@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Linlin Li 李 林 林</title>
+    <link>http://localhost:4321/project/</link>
+      <atom:link href="http://localhost:4321/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>http://localhost:4321/project/</link>
+    </image>
+    
+    <item>
+      <title>Exploring the Influence of Children-AI Interaction on Cognitive and Affective Development:Insights from fNIRS</title>
+      <link>http://localhost:4321/project/example/</link>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/example/</guid>
+      <description>&lt;h1 id=&#34;publications&#34;&gt;Publications:&lt;/h1&gt;
+&lt;p&gt;Jinzhong Yang, Liangqian Zhao, Linlin Li, Xinghua Wang (2024). A review of the impact of brain science literacy interventions on teaching and learning (In Chinese), &lt;em&gt;Open Education Research&lt;/em&gt;, under review.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

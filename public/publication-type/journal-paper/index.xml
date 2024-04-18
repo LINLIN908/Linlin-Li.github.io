@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Journal Paper | Linlin Li 李 林 林</title>
+    <link>http://localhost:4321/publication-type/journal-paper/</link>
+      <atom:link href="http://localhost:4321/publication-type/journal-paper/index.xml" rel="self" type="application/rss+xml" />
+    <description>Journal Paper</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Journal Paper</title>
+      <link>http://localhost:4321/publication-type/journal-paper/</link>
+    </image>
+    
+    <item>
+      <title>A scientometric analysis of technostress in education from 1991 to 2022</title>
+      <link>http://localhost:4321/publicationn/conference-paper/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publicationn/conference-paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic | Linlin Li 李 林 林</title>
+    <link>http://localhost:4321/tag/academic/</link>
+      <atom:link href="http://localhost:4321/tag/academic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 13 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Academic</title>
+      <link>http://localhost:4321/tag/academic/</link>
+    </image>
+    
+    <item>
+      <title>Face Emotion Classifier</title>
+      <link>http://localhost:4321/softwares/getting-started/</link>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/softwares/getting-started/</guid>
+      <description>&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Emotion Recognition: Recognize the user&amp;rsquo;s emotion in real-time.&lt;/li&gt;
+&lt;li&gt;Data Logging: Log the emotion recognition results into a CSV file for further analysis or visualization.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;open-source&#34;&gt;Open Source&lt;/h2&gt;
+&lt;p&gt;More information and the source code on my &lt;a href=&#34;https://github.com/LINLIN908/Face_Emotion_Classifier/tree/main&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
