@@ -198,12 +198,7 @@ sections:
       latitude: "36.074410"
       longitude: "120.42"
     email: linlinli908@outlook.com
-    form:
-      formspree:
-        id: null
-      netlify:
-        captcha: false
-      provider: netlify
+
     title: Contact
   design:
     columns: "2"
