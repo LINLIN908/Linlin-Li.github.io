@@ -15,10 +15,9 @@
     <item>
       <title>A scientometric analysis of technostress in education from 1991 to 2022</title>
       <link>http://localhost:4321/publication/journal-article/</link>
-      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/publication/journal-article/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Note&lt;/em&gt;. During revision stage.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -56,10 +55,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;png&#34; srcset=&#34;
-               /softwares/blog-with-jupyter/output_1_0_huc3bdc5d06838a6095581ea2d5383b025_2799564_6e8ca82ca3cc59c69b51377a355795e0.webp 400w,
-               /softwares/blog-with-jupyter/output_1_0_huc3bdc5d06838a6095581ea2d5383b025_2799564_e535ec9107189a1cc89b93266f38ee4a.webp 760w,
-               /softwares/blog-with-jupyter/output_1_0_huc3bdc5d06838a6095581ea2d5383b025_2799564_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:4321/softwares/blog-with-jupyter/output_1_0_huc3bdc5d06838a6095581ea2d5383b025_2799564_6e8ca82ca3cc59c69b51377a355795e0.webp&#34;
+               /softwares/blog-with-jupyter/UI0_hud90d40632d6beb055567fcf44656f07a_194607_6bdaf05efee5cb4a6476f2aa8f3c2403.webp 400w,
+               /softwares/blog-with-jupyter/UI0_hud90d40632d6beb055567fcf44656f07a_194607_e56c4bf73cfe18d015f14bb904907bfe.webp 760w,
+               /softwares/blog-with-jupyter/UI0_hud90d40632d6beb055567fcf44656f07a_194607_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:4321/softwares/blog-with-jupyter/UI0_hud90d40632d6beb055567fcf44656f07a_194607_6bdaf05efee5cb4a6476f2aa8f3c2403.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -84,12 +83,68 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;png&#34; srcset=&#34;
-               /softwares/blog-with-jupyter/UI_huaadb48c5df6fa4ac0d4905129342df01_387377_59f31364d362b8a2fa91518a726a7d4f.webp 400w,
-               /softwares/blog-with-jupyter/UI_huaadb48c5df6fa4ac0d4905129342df01_387377_b650b85e0241a0b9741c9f92460cdaa0.webp 760w,
-               /softwares/blog-with-jupyter/UI_huaadb48c5df6fa4ac0d4905129342df01_387377_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;http://localhost:4321/softwares/blog-with-jupyter/UI_huaadb48c5df6fa4ac0d4905129342df01_387377_59f31364d362b8a2fa91518a726a7d4f.webp&#34;
+               /softwares/blog-with-jupyter/UI1_hu6bf21ef1d98e24e530eef23baa50ea10_260233_79499d4de83f68e6a959b7629beefb2a.webp 400w,
+               /softwares/blog-with-jupyter/UI1_hu6bf21ef1d98e24e530eef23baa50ea10_260233_b41c2ac280e429bbff67c4958c9987e4.webp 760w,
+               /softwares/blog-with-jupyter/UI1_hu6bf21ef1d98e24e530eef23baa50ea10_260233_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:4321/softwares/blog-with-jupyter/UI1_hu6bf21ef1d98e24e530eef23baa50ea10_260233_79499d4de83f68e6a959b7629beefb2a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;427&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;png&#34; srcset=&#34;
+               /softwares/blog-with-jupyter/UI2_hu7c2cb1620f17473d6568786bd984340a_1395490_41522b01d43ae63fcbbc163c17a858cb.webp 400w,
+               /softwares/blog-with-jupyter/UI2_hu7c2cb1620f17473d6568786bd984340a_1395490_b003b194c59c2711aafd267ccc61f401.webp 760w,
+               /softwares/blog-with-jupyter/UI2_hu7c2cb1620f17473d6568786bd984340a_1395490_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:4321/softwares/blog-with-jupyter/UI2_hu7c2cb1620f17473d6568786bd984340a_1395490_41522b01d43ae63fcbbc163c17a858cb.webp&#34;
                width=&#34;760&#34;
                height=&#34;429&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;png&#34; srcset=&#34;
+               /softwares/blog-with-jupyter/UI3_hu92f22b484737350adb62206b46ce7c1a_3496962_4902cec6436d90e5c817e4afe8dff19d.webp 400w,
+               /softwares/blog-with-jupyter/UI3_hu92f22b484737350adb62206b46ce7c1a_3496962_5a235de5d1eddf9988a552f1c7132d83.webp 760w,
+               /softwares/blog-with-jupyter/UI3_hu92f22b484737350adb62206b46ce7c1a_3496962_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:4321/softwares/blog-with-jupyter/UI3_hu92f22b484737350adb62206b46ce7c1a_3496962_4902cec6436d90e5c817e4afe8dff19d.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;426&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
@@ -103,7 +158,11 @@
       <link>http://localhost:4321/talks/example/</link>
       <pubDate>Sat, 12 Aug 2023 13:00:00 +0000</pubDate>
       <guid>http://localhost:4321/talks/example/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; &lt;strong&gt;Linlin Li (presenter)&lt;/strong&gt;, Xinghua Wang, Shuting Song, Yu Wang, Liangqian Zhao&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Event:&lt;/strong&gt; &lt;a href=&#34;https://english.scnu.edu.cn/a/20230929/937.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Global Chinese Conference on Inquiry Learning&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; South China Normal University, No.55, West of Zhongshan Avenue, Guangzhou, China&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; August 12, 2023 to August 14, 2023&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -115,11 +174,12 @@
     </item>
     
     <item>
-      <title>The effectiveness of social robots for children’s language development:A meta-analysis</title>
+      <title>Meta–analyzing the impacts of social robots for children’s language development Insights from two decades of research from 2003 to 2023</title>
       <link>http://localhost:4321/publication/preprint/</link>
       <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/publication/preprint/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Note.&lt;/em&gt; Manuscript finished, pending submission&lt;/p&gt;
+      <description>&lt;p&gt;Abstract:&lt;p align=&#34;justify&#34;&gt;Robotics technologies powered by artificial intelligence are revolutionizing language learning, particularly for children who are at critical stages of language development. With the increasingly prevalent use of social robots in children’s language acquisition, however, a comprehensive understanding of their effectiveness in this regard remains lacking. To address this gap, this study conducted a meta-analysis of 27 empirical publications spanning two decades from 2003 to 2023, involving 70 effect sizes and 1544 participants. The results revealed a moderate to large positive effect of social robots on children’s language learning, especially for the affective dimension in social robot-assisted language learning. The influence of social robots on language learning was moderated by demographical factors (regions and school levels), research designs (social robots’ roles, intervention duration, language skills, and language types), and social robot characteristics. For instance, social robots showed the largest effect on children from the East Asia &amp;amp; Pacific region. Older learners achieved higher cognitive outcomes than younger learners. Whereas, younger learners obtained greater affective outcomes than older learners. Moderately extended exposure to social robots could lead to increased effectiveness. Social robots were particularly useful for the improvement of speaking and mixed skill sets. Anthropomorphic robots demonstrated higher effect size than cartoon-like robots. The results of this study can contribute to child-robot interaction research and practice by informing the design of social robots and the development of pedagogy in supporting language learning for children.&lt;/p&gt;
+&lt;em&gt;Note.&lt;/em&gt; Under review&lt;/p&gt;
 </description>
     </item>
     

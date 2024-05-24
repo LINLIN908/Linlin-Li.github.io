@@ -63,6 +63,7 @@ sections:
 
           * Managed 237 students, offering counseling services tailored to their needs.
           * Taught a College Students' Career Planning course for 64 students.
+          * Co-led student mental health projects, conducting data collection, analysis, and report writing for surveys (e.g., Symptom Checklist-90, Minnesota Multiphasic Personality Inventory).
 
       location: China
       title: University Counsellor (full-time)
@@ -185,7 +186,7 @@ sections:
       country: China
       country_code: China
       postcode: 
-      region: China
+      region: Shandong Province, China
       street: Qingda 1st Road 16
 #    appointment_url: https://calendly.com
     autolink: true

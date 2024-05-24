@@ -20,7 +20,7 @@ links:
 - icon: 
   icon_pack: fab
   name: Slides
-  url: https://docs.google.com/presentation/d/1T2rkLQWVHJsVIXJgLug8gv3l2QhkxmKV/edit?usp=sharing&ouid=109789377862598532551&rtpof=true&sd=true
+  url: uploads/Slides.pdf
 location: South China Normal University,
 project:
 - example
@@ -30,9 +30,14 @@ summary: A study of human-AI interactions in language learning using cluster ana
 tags: []
 title: What matters in AI-supported learning ?
 url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+url_pdf: 
+url_slides: 
+url_video: 
 ---
+**Authors:** **Linlin Li (presenter)**, Xinghua Wang, Shuting Song, Yu Wang, Liangqian Zhao
 
+**Event:** [Global Chinese Conference on Inquiry Learning](https://english.scnu.edu.cn/a/20230929/937.html)
 
+**Address:** South China Normal University, No.55, West of Zhongshan Avenue, Guangzhou, China
+
+**Date:** August 12, 2023 to August 14, 2023

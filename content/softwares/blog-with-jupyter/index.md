@@ -16,9 +16,11 @@ authors:
 - Shuting Song
 ---
 # User interface:
+![png](UI0.png)
+![png](UI1.png)
+![png](UI2.png)
+![png](UI3.png)
 
-![png](output_1_0.png)
-![png](UI.jpg)
 
 # Purposes:
 

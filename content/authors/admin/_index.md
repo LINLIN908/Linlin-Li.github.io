@@ -1,11 +1,11 @@
 ---
-bio: My research interests include AI/ICT-enhanced education, Learning analytics,Text mining, fNIRS in education.
+bio: My research interests include Social robot–assisted learning, Teachers’ AI readiness, Learning analytics/Text mining, Educational neuroscience.
 education:
   courses:
 #  - course: PhD in Artificial Intelligence
 #    institution: Stanford University
 #    year: 2012
-  - course: MPhil in Education
+  - course: MPhil in pedagogy
     institution: Qingdao University
     year: 2022-2025
   - course: BEng in Software Engineering
@@ -14,10 +14,10 @@ education:
 first_name: Lin Lin
 highlight_name: true
 interests:
-- AI/ICT-enhanced education
-- Learning analytics
-- Text mining
-- fNIRS in education
+- Social robot–assisted learning for children
+- Teachers' AI readiness
+- Learning analytics/Text mining
+- Educational neuroscience
 last_name: Li
 name_pronunciation: 
 organizations:
@@ -87,7 +87,7 @@ superuser: true
 title: Linlin Li
 ---
 
-I am currently pursuing a Master of Philosophy (MPhil) in Education at Normal College, Qingdao University, advised by [Professor Xinghua Wang](https://scholar.google.com.sg/citations?hl=zh-CN&user=IGn7oooAAAAJ&view_op=list_works&sortby=pubdate). Before this, I worked as a full-time university counsellor at Student Affairs Department of Qingdao University for two years. I obtained my bachelor's degree in Software Engineering, also from Qingdao University.
+I am currently pursuing a Master of Academic Degree in pedagogy at Normal College, Qingdao University, advised by [Professor Xinghua Wang](https://scholar.google.com.sg/citations?hl=zh-CN&user=IGn7oooAAAAJ&view_op=list_works&sortby=pubdate). Before this, I worked as a full-time university counsellor at Student Affairs Department of Qingdao University for two years. I obtained my bachelor's degree in Software Engineering, also from Qingdao University.
 
-My research focuses on the effectiveness of social robots in enhancing children's development across affective, behavioral, cognitive, and social domains. Furthermore, I delve into the benefits of information and communication technologies (ICT)-enhanced education, and the dark side of them (i.e., technostress). In addition, I use Functional Near-Infrared Spectroscopy (fNIRS) technology to explore the internal brain mechanisms underlying children's cognitive and affective development as they engage with artificial intelligence (AI). 
+My research focuses on the effectiveness of social robots in enhancing children's development across affective, behavioral, cognitive, and social domains. Furthermore, I delve into the teacher's AI readiness and the dark side of information and communication technologies–enhanced education (i.e., technostress). In addition, I use Functional Near-Infrared Spectroscopy (fNIRS) technology to explore the internal brain mechanisms underlying children's cognitive and affective development as they engage with AI. 
 {style="text-align: justify;"}
