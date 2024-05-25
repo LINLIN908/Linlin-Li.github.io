@@ -111,10 +111,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;png&#34; srcset=&#34;
-               /softwares/blog-with-jupyter/UI2_hu7c2cb1620f17473d6568786bd984340a_1395490_f4161d7bf2fc48679880c6603787741b.webp 400w,
+               /softwares/blog-with-jupyter/UI2_hu7c2cb1620f17473d6568786bd984340a_1395490_949651791b5f2b8375f482ff9e70ce06.webp 400w,
                /softwares/blog-with-jupyter/UI2_hu7c2cb1620f17473d6568786bd984340a_1395490_7a0fc48017f57b078c7a7ea5f099dd10.webp 760w,
                /softwares/blog-with-jupyter/UI2_hu7c2cb1620f17473d6568786bd984340a_1395490_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:4321/softwares/blog-with-jupyter/UI2_hu7c2cb1620f17473d6568786bd984340a_1395490_f4161d7bf2fc48679880c6603787741b.webp&#34;
+               src=&#34;http://localhost:4321/softwares/blog-with-jupyter/UI2_hu7c2cb1620f17473d6568786bd984340a_1395490_949651791b5f2b8375f482ff9e70ce06.webp&#34;
                width=&#34;760&#34;
                height=&#34;429&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

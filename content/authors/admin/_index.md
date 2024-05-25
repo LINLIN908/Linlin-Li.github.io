@@ -89,5 +89,5 @@ title: Linlin Li
 
 I am currently pursuing a Master of Academic Degree in pedagogy at Normal College, Qingdao University, advised by [Professor Xinghua Wang](https://scholar.google.com.sg/citations?hl=zh-CN&user=IGn7oooAAAAJ&view_op=list_works&sortby=pubdate). Before this, I worked as a full-time university counsellor at Student Affairs Department of Qingdao University for two years. I obtained my bachelor's degree in Software Engineering, also from Qingdao University.
 
-My research focuses on the effectiveness of social robots in enhancing children's development across affective, behavioral, cognitive, and social domains. Furthermore, I delve into the teacher's AI readiness and the dark side of information and communication technologies–enhanced education (i.e., technostress). In addition, I use Functional Near-Infrared Spectroscopy (fNIRS) technology to explore the internal brain mechanisms underlying children's cognitive and affective development as they engage with AI. 
-{style="text-align: justify;"}
+My research focuses on the effectiveness of social robots in enhancing children's development across affective, behavioral, cognitive, and social domains. Furthermore, I delve into the teacher's AI readiness and the dark side of information and communication technologies (i.e., technostress) in education. In addition, I use Functional Near-Infrared Spectroscopy (fNIRS) technology to explore the internal brain mechanisms underlying children's cognitive and affective development as they engage with AI.
+
