@@ -20,7 +20,7 @@ links:
 - icon: 
   icon_pack: fab
   name: Slides
-  url: uploads/Slides.pdf
+  url: https://www.linlinliedu.com/uploads/Slides.pdf
 location: South China Normal University,
 project:
 - example
