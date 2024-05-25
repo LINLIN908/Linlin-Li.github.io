@@ -16,5 +16,5 @@ url_slides: ""
 url_video: ""
 ---
 # Publications:
-Jinzhong Yang, Liangqian Zhao, Linlin Li, Xinghua Wang (2024). A review of the impact of brain science literacy interventions on teaching and learning (In Chinese), *Open Education Research*, under review.
+Jinzhong Yang, Liangqian Zhao, Xinghua Wang*, Shuting Song, Linlin Li (2024). A systematic review of the impact of brain literacy interventions on teaching and learning (in Chinese), *Open Education Research*. [CSSCI index]
 

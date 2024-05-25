@@ -14,7 +14,7 @@ education:
 first_name: Lin Lin
 highlight_name: true
 interests:
-- Social robot–assisted learning for children
+- Social robot–assisted learning
 - Teachers' AI readiness
 - Learning analytics/Text mining
 - Educational neuroscience
