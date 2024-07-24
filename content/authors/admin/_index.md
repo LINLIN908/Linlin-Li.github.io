@@ -86,7 +86,7 @@ status:
 superuser: true
 title: Linlin Li
 ---
-I am currently pursuing a Master's Degree in pedagogy (specialization: EdTech) at Normal College, Qingdao University, advised by [Professor Xinghua Wang](https://scholar.google.com.sg/citations?hl=zh-CN&user=IGn7oooAAAAJ&view_op=list_works&sortby=pubdate). Before this, I worked as a full-time university counsellor at Student Affairs Department of Qingdao University for two years. I obtained my bachelor's degree in Software Engineering, also from Qingdao University.
+I am currently pursuing a Master's Degree in pedagogy (specialization: Learning Sciences and Technologies) at Normal College, Qingdao University, advised by [Professor Xinghua Wang](https://scholar.google.com.sg/citations?hl=zh-CN&user=IGn7oooAAAAJ&view_op=list_works&sortby=pubdate). Before this, I worked as a full-time university counsellor at Student Affairs Department of Qingdao University for two years. I obtained my bachelor's degree in Software Engineering, also from Qingdao University.
 {style="text-align: justify;"}
 
 
