@@ -23,7 +23,7 @@ name_pronunciation:
 organizations:
 - name: Qingdao University
   url: https://www.qdu.edu.cn/
-role: Second-year graduate student
+role: Third-year graduate student
 skills:
 - items:
   - description: ""
